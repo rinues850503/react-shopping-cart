@@ -1,0 +1,6 @@
+#!/bin/bash
+
+npm install nodemon
+npm install node-sass
+
+echo "---> CUSTOM S2I ASSEMBLE COMPLETE"
