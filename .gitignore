@@ -9,6 +9,8 @@
 # production
 /build
 
+.s2i
+
 # misc
 .DS_Store
 .env.local
